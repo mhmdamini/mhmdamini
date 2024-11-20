@@ -1,26 +1,35 @@
-# Professional Homepage
+# 👨‍💻 Mohammad Amini  
 
-Welcome to the official GitHub repository for [Your Project Name]!
+Welcome to my GitHub profile! I am a Ph.D. student specializing in **Industrial and Systems Engineering** at the University of Florida. My passion lies in **optimization**, **data analysis**, and **global optimization**, along with their applications in various fields. I aim to bridge theoretical research with real-world solutions through advanced methodologies.
 
-## Overview
-// ...existing code...
+---
 
-## Features
-// ...existing code...
+## 📜 **About Me**  
 
-## Installation
-// ...existing code...
+I hold:  
+- **Ph.D. in Industrial and Systems Engineering** from the **University of Florida**, where I work on **multimodal data fusion for decentralized datasets** under the supervision of **Dr. Mostafa Reisi** and **Dr. Aleksandr Kazachkov**.  
+- **Master's in Industrial and Systems Engineering** from **Sharif University of Technology**, where I focused on mathematical programming in graceful and alpha valuation for quadratic graphs under the guidance of **Dr. Kourosh Eshghi**.  
+- **Bachelor's in Mathematics and Computer Science** from **Amirkabir University of Technology**.  
 
-## Usage
-// ...existing code...
+I began my doctoral journey at the **University of Texas at Austin**, researching **game theory** and its application in sustainable operations research before transitioning to the University of Florida to focus on my current interests.
 
-## Contributing
-// ...existing code...
+---
 
-## License
-// ...existing code...
+## 🎯 **Research Interests**  
 
-## Contact
-For any inquiries or feedback, please contact [Your Name] at [Your Email Address].
+- **Optimization**  
+- **Data Analysis**  
+- **Global Optimization**  
+- Applications of advanced mathematical methodologies in real-world problems  
 
-Connect with us on [LinkedIn](https://www.linkedin.com/in/yourprofile) and follow us on [Twitter](https://twitter.com/yourprofile) for updates.
+---
+
+## 📬 **Contact Me**  
+
+Feel free to connect or reach out!  
+- **Email**: [m.amini@ufl.edu](mailto:m.amini@ufl.edu)  
+- **LinkedIn**: [linkedin.com/in/mohamini](https://linkedin.com/in/mohamini)  
+
+---
+
+Thank you for visiting my profile! 😊  
