@@ -1,6 +1,6 @@
 # 👨‍💻 Mohammad Amini  
 
-Welcome to my GitHub profile! I am a Ph.D. student specializing in **Industrial and Systems Engineering** at the University of Florida. My passion lies in **optimization**, **data analysis**, **distributed machine learning**, and **global optimization**, along with their applications in various fields. I aim to bridge theoretical research with real-world solutions through advanced methodologies.
+Welcome to my GitHub profile! I am a Ph.D. student specializing in **Industrial and Systems Engineering** at the University of Florida. My passion lies in **optimization**, **high dimentional data analysis**, **distributed machine learning**, and **global optimization**, along with their applications in various fields. I aim to bridge theoretical research with real-world solutions through advanced methodologies.
 
 ---
 
