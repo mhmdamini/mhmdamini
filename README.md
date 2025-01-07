@@ -17,10 +17,10 @@ I began my doctoral journey at the **University of Texas at Austin**, researchin
 
 ## 🎯 **Research Interests**  
 
-- **Optimization**  
-- **Data Analysis**  
+- **Distributed Machine Learning**  
+- **High Dimentional Data Analysis**  
 - **Global Optimization**  
-- Applications of advanced mathematical methodologies in real-world problems  
+- **Applications of advanced mathematical methodologies in real-world problems**  
 
 ---
 
