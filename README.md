@@ -11,6 +11,13 @@ for education.
 
 ## Projects
 
+### Mixed-integer optimization
+
+- **[SVPC Lab](https://github.com/mhmdamini/SVPC_Lab)**: V-polyhedral disjunctive
+  cuts (VPCs) with monoidal strengthening, compared with Gomory fractional,
+  intersection and GMI cuts, plus a web interface that draws the feasible region
+  and every cut for 2- and 3-variable problems. Built on JuMP and HiGHS.
+
 ### Distributed optimization and learning
 
 - **SeEFed**: self-expressive federated learning for networked systems, with
