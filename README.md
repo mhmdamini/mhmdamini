@@ -4,8 +4,6 @@
 I work on mixed-integer optimization (cutting planes and disjunctive cuts),
 distributed optimization, high-dimensional data analysis, and language models
 for education.
-I like research code that other people can actually run: tested, documented
-and with scripts that reproduce every result.
 
 🌐 [mhmdamini.github.io](https://mhmdamini.github.io) · ✉️ [m.amini@ufl.edu](mailto:m.amini@ufl.edu) · 💼 [LinkedIn](https://linkedin.com/in/mohamini)
 
