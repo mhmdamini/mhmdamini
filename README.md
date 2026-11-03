@@ -1,35 +1,55 @@
-# 👨‍💻 Mohammad Amini  
+# Mohammad Amini
 
-Welcome to my GitHub profile! I am a Ph.D. student specializing in **Industrial and Systems Engineering** at the University of Florida. My passion lies in **optimization**, **high dimentional data analysis**, **distributed machine learning**, and **global optimization**, along with their applications in various fields. I aim to bridge theoretical research with real-world solutions through advanced methodologies.
+**Ph.D. in Industrial and Systems Engineering (minor in Computer Science), University of Florida.**
+I work on mixed-integer optimization (cutting planes and disjunctive cuts),
+distributed optimization, high-dimensional data analysis, and language models
+for education.
+I like research code that other people can actually run: tested, documented
+and with scripts that reproduce every result.
 
----
-
-## 📜 **About Me**  
-
-I hold:  
-- **Ph.D. in Industrial and Systems Engineering** from the **University of Florida**, where I worked on **networked systems and multimodal machine learning for decentralized datasets** under the supervision of **Dr. Mostafa Reisi** and **Dr. Aleksandr Kazachkov**.  
-- **Master's in Industrial and Systems Engineering** from **Sharif University of Technology**, where I focused on mathematical programming in graceful and alpha valuation for quadratic graphs under the guidance of **Dr. Kourosh Eshghi**.  
-- **Bachelor's in Mathematics and Computer Science** from **Amirkabir University of Technology**.  
-
-I began my doctoral journey at the **University of Texas at Austin**, researching **game theory** and its application in sustainable operations research before transitioning to the University of Florida to focus on my current interests.
+🌐 [mhmdamini.github.io](https://mhmdamini.github.io) · ✉️ [m.amini@ufl.edu](mailto:m.amini@ufl.edu) · 💼 [LinkedIn](https://linkedin.com/in/mohamini)
 
 ---
 
-## 🎯 **Research Interests**  
+## Projects
 
-- **Distributed Machine Learning**  
-- **High Dimentional Data Analysis**  
-- **Global Optimization**  
-- **Applications of advanced mathematical methodologies in real-world problems**  
+### Distributed optimization and learning
+
+- **SeEFed**: self-expressive federated learning for networked systems, with
+  data generation, federated optimization routines and a benchmarking suite
+  against standard baselines.
+- **FCGLM**: federated cooperative generalized linear models for distributed
+  multimodal data analysis.
+- **[federated-glm](https://github.com/mhmdamini/federated-glm)**: a Python
+  package (on [PyPI](https://pypi.org/project/federated-glm/)) for distributed
+  fitting of generalized linear models across clients: Gaussian, binomial and
+  Poisson families, elastic-net regularization and convergence diagnostics.
+- **FL for agriculture**: centralized, local, federated and personalized
+  learning compared for tomato disease classification from spectral data, with
+  neural networks, SVMs and logistic regression under FedAvg, FedProx, FedAdam and FedOpt.
+
+### Language models for education
+
+- **[Morphological MCQ generation](https://github.com/GrpMABA/NLP)**: code for the
+  paper *Prompting Strategies for Language Model-Based Item Generation in K–12
+  Education: Bridging the Gap Between Small and Large Language Models*. It fine-tunes
+  Gemma 2B with LoRA, compares it to GPT-3.5 prompting on 13 question types, and
+  evaluates items with automatic metrics and expert ratings.
+
+More of my optimization code will be released here as the papers come out.
+
+**Tools I use:** Julia (JuMP, HiGHS), Python (NumPy, PyTorch, scikit-learn, Flower, Hugging Face), LaTeX.
 
 ---
 
-## 📬 **Contact Me**  
+## Background
 
-Feel free to connect or reach out!  
-- **Email**: [m.amini@ufl.edu](mailto:m.amini@ufl.edu)  
-- **LinkedIn**: [linkedin.com/in/mohamini](https://linkedin.com/in/mohamini)  
-
----
-
-Thank you for visiting my profile! 😊  
+- **Ph.D., Industrial and Systems Engineering, minor in Computer Science**, University of Florida.
+  Dissertation on networked systems and multimodal machine learning for decentralized
+  datasets, advised by Dr. Mostafa Reisi and Dr. Aleksandr Kazachkov.
+  I began my doctoral studies at the University of Texas at Austin, working on game
+  theory for sustainable operations.
+- **M.Sc., Industrial and Systems Engineering**, Sharif University of Technology.
+  Thesis on mathematical programming for graceful and alpha valuations of quadratic
+  graphs, advised by Dr. Kourosh Eshghi.
+- **B.Sc., Mathematics and Computer Science**, Amirkabir University of Technology.
