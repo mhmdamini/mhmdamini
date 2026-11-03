@@ -13,10 +13,10 @@ for education.
 
 ### Mixed-integer optimization
 
-- **[SVPC Lab](https://github.com/mhmdamini/SVPC_Lab)**: V-polyhedral disjunctive
-  cuts (VPCs) with monoidal strengthening, compared with Gomory fractional,
-  intersection and GMI cuts, plus a web interface that draws the feasible region
-  and every cut for 2- and 3-variable problems. Built on JuMP and HiGHS.
+- **[SVPC Lab](https://github.com/mhmdamini/SVPC_Lab)**: a Julia library for
+  disjunctive cuts, branch and bound and branch and cut, with a web interface
+  that draws the feasible region, every cut and the search tree for 2- and
+  3-variable problems. Built on JuMP and HiGHS.
 
 ### Distributed optimization and learning
 
