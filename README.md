@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a Ph.D. student specializing in **Industrial 
 ## 📜 **About Me**  
 
 I hold:  
-- **Ph.D. in Industrial and Systems Engineering** from the **University of Florida**, where I worked on **multimodal machine learning for decentralized datasets** under the supervision of **Dr. Mostafa Reisi** and **Dr. Aleksandr Kazachkov**.  
+- **Ph.D. in Industrial and Systems Engineering** from the **University of Florida**, where I worked on **networked systems and multimodal machine learning for decentralized datasets** under the supervision of **Dr. Mostafa Reisi** and **Dr. Aleksandr Kazachkov**.  
 - **Master's in Industrial and Systems Engineering** from **Sharif University of Technology**, where I focused on mathematical programming in graceful and alpha valuation for quadratic graphs under the guidance of **Dr. Kourosh Eshghi**.  
 - **Bachelor's in Mathematics and Computer Science** from **Amirkabir University of Technology**.  
 
