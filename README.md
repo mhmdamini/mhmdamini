@@ -2,8 +2,8 @@
 
 **Ph.D. in Industrial and Systems Engineering (minor in Computer Science), University of Florida.**
 I work on mixed-integer optimization (cutting planes and disjunctive cuts),
-distributed optimization, high-dimensional data analysis, and language models
-for education.
+distributed optimization, high-dimensional data analysis, and language
+models.
 
 🌐 [mhmdamini.github.io](https://mhmdamini.github.io) · ✉️ [m.amini@ufl.edu](mailto:m.amini@ufl.edu) · 💼 [LinkedIn](https://linkedin.com/in/mohamini)
 
@@ -32,7 +32,7 @@ for education.
   learning compared for tomato disease classification from spectral data, with
   neural networks, SVMs and logistic regression under FedAvg, FedProx, FedAdam and FedOpt.
 
-### Language models for education
+### Language models
 
 - **[Morphological MCQ generation](https://github.com/GrpMABA/NLP)**: code for the
   paper *Prompting Strategies for Language Model-Based Item Generation in K–12
