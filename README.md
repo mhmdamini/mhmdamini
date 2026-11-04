@@ -24,7 +24,7 @@ for education.
   against standard baselines.
 - **FCGLM**: federated cooperative generalized linear models for distributed
   multimodal data analysis.
-- **[federated-glm](https://github.com/mhmdamini/federated-glm)**: a Python
+- **[Federated GLM](https://github.com/mhmdamini/federated-glm)**: a Python
   package (on [PyPI](https://pypi.org/project/federated-glm/)) for distributed
   fitting of generalized linear models across clients: Gaussian, binomial and
   Poisson families, elastic-net regularization and convergence diagnostics.
